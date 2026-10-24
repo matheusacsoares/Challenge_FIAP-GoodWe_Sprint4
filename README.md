@@ -9,8 +9,10 @@ Disciplinas: Arquitetura de Computadores (COA) e Soluções em Energias Renováv
 | Nome | RM |
 |---|---|
 |Giovanna Ferreira Almeida | RM571822
+|Lucas Bellezzo Figueiredo | RM569734
 |Maria Luiza Vieira de Freitas | RM571535
 |Matheus Arruda Camara Soares | RM571594
+|Matheus Sabino da Silva Guedes | RM572907
 
 ## Links
 
