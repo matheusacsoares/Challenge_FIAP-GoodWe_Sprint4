@@ -16,7 +16,7 @@ Disciplinas: Arquitetura de Computadores (COA) e Soluções em Energias Renováv
 
 ## Links
 
-- Vídeo de demonstração (YouTube, não listado): [PREENCHER: link do vídeo]
+- Vídeo de demonstração (YouTube, não listado): https://youtu.be/q1Fl3sSVPzc
 - Projeto no Wokwi: https://wokwi.com/projects/478617179556870145
 
 ## Visão geral
